@@ -1,0 +1,2 @@
+-dibujar pollos cerdos y vacas aleaotorias
+-mover un cerdo con las flechas

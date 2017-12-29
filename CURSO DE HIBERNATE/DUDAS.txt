@@ -1,0 +1,8 @@
+fALTA DEL TUTORIAL DOS DE HIBERNATEE
+SESSION(USANDO HIBERNATE)
+
+
+Si una relacion no se encuentra en la base de datos se puede implementar en hibernate
+Ejemplo:
+ profesor 
+ Direccion
